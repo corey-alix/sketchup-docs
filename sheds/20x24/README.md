@@ -3,6 +3,7 @@ Dimensional
 2 in. x 10 in. x 10 ft. #2 Prime Kiln Dried Southern Yellow Pine Lumber - $13
 2 in. x  8 in. x 10 ft. #2 Prime Kiln Dried Southern Yellow Pine Lumber - $10
 2 in. x 6 in. x 8 ft. #2 and Better Kiln-Dried Heat Treated Spruce-Pine-Fir Lumber - $6
+2 in. x 6 in. x 10 ft. #2 and Better Kiln-Dried Heat Treated Spruce-Pine-Fir Lumber - $9
 
 Sheathing
 23/32 in. x 4 ft. x 8 ft. CCX Ground Contact Southern Yellow Pine Pressure-Treated Plywood - $38.50
@@ -15,5 +16,7 @@ Floor Sheeting - 15 sheets ($600)
 Wall Sheating - 22 ($750)
 Wall Studs - 60 2x6 ($360)
 Drywall - 22 ($220)
+Roof Trusses - 17x4 ($600)
+Ceiling Joists - 17 (unknown - 24' 2 x 12 trusses)
 
 Running Total (est): $2650
