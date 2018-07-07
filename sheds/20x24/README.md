@@ -1,4 +1,4 @@
-__Permits for 29615__
+# Permits for 29615
 * [main website](http://www.greenvillesc.gov/656/Building-Permits)
 * site-plan permit preceeds building permit
 * [building permit application](http://www.greenvillesc.gov/FormCenter/Building-Permits-19/Eform-Building-Permit-Application-attach-237#_=_), requires cost estimate, tax map, zoning designation, overlay district.
@@ -16,6 +16,13 @@ __Permits for 29615__
 
 > "You are encouraged to schedule an application conference with a planner, who will review your application for “Sufficiency” at the time it is submitted. Call (864) 467-4476 to schedule an appointment."
 
+# Relevent Building Codes
+* [1805](http://www.ibc-wiki.com/section-1805/) - Footings and Foundataions
+* 1805.1 - footings shall be level
+* 1805.2 - footing 12" below undisurbed soil
+* 1805.4 - footing 12" minimum width, 8" thick
+* 1805.4.1 - red clay is 150 kPa = 3000 psf, regular concrete = 10 MPa
+* 
 
 
 __Materials for Main Shed__
@@ -40,12 +47,11 @@ __Concessions__
 * I could use 2x8 instead of 2x10 on second floor and save about $180.
 
 __Construction Facts__
-NOTE: assumes #2 southern pine, floor joists
+NOTE: assumes #2 southern pine, floor joists 16" oc, 40/10 load
 * 2x4 max span: 5 ft. 9 in.
 * 2x6 max span: 10 ft.
 * 2x8 max span: 13 ft. 2 in.
 * 2x10 max span: 16 ft. 9 in.
-
 
 __Specs__
 * Footer spacing is 117" by 90"
@@ -62,3 +68,4 @@ __References__
 * [treaditional joinery](http://www.vermonttimberworks.com/learn/timber-frame-joinery/traditional/)
 * [glossary of joinery](http://www.newenglandbarn.com/glossary.php)
 * [screened porch model](https://3dwarehouse.sketchup.com/model/1039a2dd-f8e9-4f63-9655-cde20bb09a31/Screened-Porch)
+1 Kpa = 20 psf, clay@150 kPa === 3000 psf

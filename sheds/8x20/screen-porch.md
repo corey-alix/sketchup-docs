@@ -1,7 +1,7 @@
 # Tools
 * Wheelbarrel, Shovel
 * Rebar Cutter
-* Pocket Jig for rails
+* Pocket Jig for railing
 
 # Materials
 ## Foundation
