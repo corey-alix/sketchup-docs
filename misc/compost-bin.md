@@ -14,4 +14,4 @@ Thoughts:
 * Instead of plywood I could use dimensional lumber...86" => 8 2x12 is $115 (compared to $83, much stronger)
 
 
-Costs: $362.21 + hardware, $394.03 w/ 2x12s 
+Costs: $362.21 + hardware, $394.03 w/ 2x12s ($6/sqft)
